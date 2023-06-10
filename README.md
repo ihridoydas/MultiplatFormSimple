@@ -38,9 +38,10 @@ Follow the steps below to set up a Compose Multiplatform project in Android Stud
       ``` 
 4. **Add It in In your Module→Module:androidApp,→Module: shared** 
 
-       ```kotlin
-      id("org.jetbrains.compose")
-       ```
+
+         ```
+            id("org.jetbrains.compose")
+          ```
 
 5. **Configure Shared Module Build Script**
     - Open `build.gradle.kts` (shared) and do the following:
