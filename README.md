@@ -1,4 +1,4 @@
-# SimpleMultiplatForm
+# SimpleMultiplatForm + jetpack compose
 # Setting Up a Compose Multiplatform Project in Android Studio
 
 Follow the steps below to set up a Compose Multiplatform project in Android Studio.
